@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 Hi! I am Ritesh Konka, currently in 3rd year AIML Engineering at Dwarkadas J. Sanghvi College of Engineering.<br>🌱 I’m currently learning Machine Learning, Computer Vision and  Natural Language Processing.<br>👯 I’m looking to collaborate on ML Development .<br>🔓 Open to Freelance Work, Open Source Projects and Internships.<br>💬 Ask me about AI ,Deep Learning and Data Science<br>📧Contact me @riteshkonka999@gmail.com
+🤝 Hi! I am Ritesh Konka, currently in final year AIML Engineering at Dwarkadas J. Sanghvi College of Engineering.<br>🌱 I’m currently learning Machine Learning, Computer Vision and  Natural Language Processing.<br>👯 I’m looking to collaborate on ML Development .<br>🔓 Open to Freelance Work, Open Source Projects and Internships.<br>💬 Ask me about AI ,Deep Learning and Data Science<br>📧Contact me @riteshkonka999@gmail.com
 
 
 ## 🌐 Socials:
